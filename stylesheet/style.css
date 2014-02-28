@@ -31,17 +31,10 @@ a:hover {color: #C0D936} <!--This can be applied to any block of text-->
 a:visited {color: #6B8696}
 a:active {color: #6B9691}
 
-aside li {
-    list-style-type:disc url ('https://drive.google.com/uc?id=etcetcetc'); <!--Link to google drive image!-->
-}
-
-
-
 article {
     width: 274px;
     margin: 10px;
 }
-
 
 footer {
     clear:left;
@@ -49,16 +42,3 @@ footer {
     margin: 10px;
     padding: 10px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
